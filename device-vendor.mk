@@ -1,1 +1,1 @@
-$(call inherit-product, vendor/lge/mako/hammerhead-vendor-blobs.mk)
+$(call inherit-product, vendor/lge/hammerhead/hammerhead-vendor-blobs.mk)
